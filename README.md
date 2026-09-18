@@ -36,21 +36,6 @@ stone-paper-scissors/
     └── stone_paper_scissors.ipynb
 ```
 
-## How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/stone-paper-scissors.git
-cd stone-paper-scissors
-```
-
-### 2. Run the game
-
-```bash
-python stone_paper_scissors.py
-```
-
 No external Python packages are required.
 
 ## How to Play
